@@ -1,0 +1,192 @@
+[
+    {
+        "id": "b5374679-fea6-4b28-a0ff-8cf9889e0280",
+        "lastUpdated": "2021-02-11T05:00:04.230+00:00",
+        "valueString": "IX-PATIENT-NiWbvu",
+        "age": "40",
+        "name": {
+          "use": "usual",
+          "family": "Doe",
+          "given": [
+            "Jane",
+            "Jinnie"
+          ]
+        },
+      "telecom": {
+          "system": "phone",
+          "value": "(816)234-6909",
+          "use": "home"
+        },
+      "gender": "female",
+      "birthDate": "1978-04-15",
+      "address": {
+          "use": "home",
+          "line": [
+            "456 Dove Street"
+          ],
+          "city": "NewYork",
+          "state": "NY",
+          "postalCode": "10005",
+          "country": "US"
+        },
+      "managingOrganization": {
+        "reference": "Organization/9b49676b-2057-45b4-8d65-bbfbd49b68dd",
+        "display": "Care Clinic"
+      }
+    },
+    {
+        "id": "db675d25-b10f-4bf2-8269-71545c8725db",
+        "lastUpdated": "2021-02-04T07:07:04.895+00:00",
+        "valueString": "IX-PATIENT-Kz1p3b",
+        "age":"66",
+        "name": {
+            "use": "usual",
+            "family": "Cole",
+            "given": [
+              "Kenneth"
+            ]
+        },
+      "telecom": 
+        {
+            "system": "phone",
+            "value": "(816)276-6909",
+            "use": "home"
+        },
+      "gender": "male",
+      "birthDate": "1973-02-16",
+      "address": {
+            "use": "home",
+            "line": [
+              "1357 Amber Drive"
+            ],
+            "city": "Beaverton",
+            "state": "OR",
+            "postalCode": "97006",
+            "country": "US"
+        },
+      "managingOrganization": {
+        "reference": "Organization/2cb7e4e0-7157-4c98-8a50-9e67cd1d05b4",
+        "display": "Get Well Clinic"
+      }
+    },
+    {
+        "id": "518a7b38-c84d-42dd-8f07-1595f9e67c50",
+        "lastUpdated": "2020-11-03T15:47:18.560+00:00",
+        "valueString": "IX-PATIENT-XMS73L",
+        "age":"53",
+        "name": {
+            "use": "official",
+            "family": "Nuclear",
+            "given": [
+                  "Ned"
+            ]
+        },
+      "telecom": {
+        "system": "phone",
+        "value": "555-555-5001",
+        "use": "work"
+        },
+      "gender": "male",
+      "birthDate": "1981-09-23",
+      "address": {
+        "use": "home",
+        "line": [
+          "6666 Home Street"
+        ],
+            "city": "Beaverton",
+            "state": "OR",
+            "postalCode": "97006",
+            "country": "US"
+        },
+      "managingOrganization": {
+        "reference": "Organization/9e2477a0-3cd6-4bdc-b55f-f4530b7642c4"
+      }
+    },
+    {
+        "id": "f402d0dd-685e-4c7a-871c-0119e1a3fded",
+        "lastUpdated": "2020-11-03T15:44:26.273+00:00",
+        "valueString": "IX-PATIENT-wgl34d",
+        "age":"38",
+        "name": {
+            "use": "official",
+            "family": "Nuclear",
+            "given": [
+              "Nelda"
+            ]
+        },
+      "telecom": {
+        "system": "phone",
+        "value": "555-555-5001",
+        "use": "work"
+        },
+      "gender": "female",
+      "birthDate": "1980-11-10",
+      "address": {
+        "use": "home",
+            "line": [
+              "6666 Home Street"
+            ]
+        },
+        "managingOrganization": {
+            "reference": "Organization/8c084b6d-1f2d-4018-ba0c-107c88270ee3"
+        }
+    },
+    {
+        "id": "effd5b22-edff-4152-9a19-dd3edf311bf0",
+        "lastUpdated": "2020-11-03T16:02:41.651+00:00",
+        "valueString": "IX-PATIENT-bJtTNA",
+        "age":"55",
+        "name": {
+            "use": "official",
+            "family": "Clinton",
+            "given": [
+              "Eve"
+            ]
+        },
+      "telecom": {
+        "system": "phone",
+        "value": "555-555-2003",
+        "use": "work"
+        },
+      "gender": "female",
+      "birthDate": "1974-05-31",
+      "address": {
+        "use": "home",
+            "line": [
+              "2222 Home Street"
+            ]
+        },
+      "managingOrganization": {
+        "reference": "Organization/254422af-9ae1-4153-9dd5-9613b9eca344"
+      }
+    },
+    {
+        "id": "327994fb-25da-451b-bd14-628dee412823",
+        "lastUpdated": "2020-11-03T15:46:57.808+00:00",
+        "valueString": "IX-PATIENT-qwUN1X",
+        "age":"70",
+        "name": {
+            "use": "official",
+            "family": "Jordan",
+            "given": [
+              "Martha"
+            ]
+        },
+      "telecom": {
+        "system": "phone",
+        "value": "555-555-2006",
+        "use": "work"
+        },
+      "gender": "female",
+      "birthDate": "1970-12-31",
+      "address": {
+        "use": "home",
+            "line": [
+              "4444 Home Street"
+            ]
+        },
+      "managingOrganization": {
+        "reference": "Organization/254422af-9ae1-4153-9dd5-9613b9eca344"
+      }
+    }
+]
